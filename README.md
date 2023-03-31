@@ -1,7 +1,16 @@
 ### Hi there 👋
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayaks439&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinayaks439&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinayaks439&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinayaks439&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vinayaks439&theme=dracula)
+
 <!--
 **Vinayaks439/Vinayaks439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api?username=Vinayaks439&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayaks439)
 
 Here are some ideas to get you started:
 
